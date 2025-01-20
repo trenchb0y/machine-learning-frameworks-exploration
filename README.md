@@ -1,7 +1,9 @@
-# 🧠 Deep Learning Frameworks Tutorial
+# 🧠 Koleksi Notebook Framework Keras, TensorFlow, Pytorch [Beginner]
 
-Kumpulan notebook yang ramah pemula yang menunjukkan dasar-dasar framework pembelajaran mendalam yang populer (Keras, TensorFlow, PyTorch).
+Kumpulan notebook yang ramah pemula yang menunjukkan dasar-dasar framework pembelajaran mendalam yang populer (Keras, TensorFlow, PyTorch). Ringkasan diambil dari dokumentasi masing-masing framework yang bisa diakses di pranala berikut:
 
-## 📜 License
+* [Keras](https://keras.io/api/)
 
-Proyek ini bersifat open source dan tersedia di bawah Lisensi MIT.
+* [TensorFlow](https://www.tensorflow.org/api_docs/python/tf)
+
+* [PyTorch](https://pytorch.org/docs/stable/index.html)
